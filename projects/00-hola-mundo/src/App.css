@@ -38,7 +38,7 @@
 }
 
 .tw-followCard-button.isFollowing:hover {
-    background-color: #a55;
+    background-color: rgb(246, 143, 143);
     color: #fff;
 }
 
